@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="pressed_color">#ff65a4fa</item>
+    <item type="drawable" name="selected_color">#ffff873f</item>
+    <item type="drawable" name="wrong_search">#f50101</item>
+</resources>
